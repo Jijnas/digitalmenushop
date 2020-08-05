@@ -1,2 +1,2 @@
 # digitalmenushop
-Repository for exchange of ideas
+Repository for exchange of project ideas
